@@ -1,6 +1,5 @@
 This repository holds my mini ptojects and exampels to learn scratch
 
-
 | Folder | Description |
 | --- | --- |
 | Ball_pong | ball that bounces around
