@@ -4,4 +4,5 @@ This repository holds my mini ptojects and exampels to learn scratch
 | --- | --- |
 | Ball_pong | ball that bounces around
 | Cat_walking | example how to move a object
+| Hide_and_seek | mini game
 
