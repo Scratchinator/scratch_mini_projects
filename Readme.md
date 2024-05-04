@@ -1,14 +1,15 @@
 This repository holds my mini ptojects and exampels to learn scratch
 
-| Folder | Description |
+Mini games:
+
+| Program | Description |
 | --- | --- |
 | Ball_pong | ball that bounces around
 | Hide_and_seek | mini game 
 
+Examples:
 
-
-
-| Folder | Description |
+| Program | Description |
 | --- | --- |
 | Calculator | example how a calculator works in scratch
 | Cat_walking | example how to move a object
