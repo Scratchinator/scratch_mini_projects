@@ -6,7 +6,6 @@ Mini games:
 | --- | --- |
 | Ball_pong | ball that bounces around
 | Hide_and_seek | mini game 
-| Killer Tic Tac To | bether Tic Tac To
 
 Examples:
 
