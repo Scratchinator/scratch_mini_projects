@@ -6,6 +6,7 @@ Mini games:
 | --- | --- |
 | Ball_pong | ball that bounces around
 | Hide_and_seek | mini game 
+| The_Hole_Game | a game where you control a marble
 
 Examples:
 
